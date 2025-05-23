@@ -17,6 +17,7 @@
 ## 🛠️ Tech Stack
 
 - **Backend:** [FastAPI](https://fastapi.tiangolo.com/)
+- **Python3-Version:** Python 3.12.3
 - **Frontend:** HTML, CSS, JavaScript (Vanilla)
 - **Real-Time:** WebSockets via FastAPI
 
